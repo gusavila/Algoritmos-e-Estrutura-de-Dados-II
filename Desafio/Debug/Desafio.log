@@ -1,0 +1,4 @@
+﻿  Desafio.cpp
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Desafio\Desafio.cpp(5,9): error C2062: tipo 'int' inesperado
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Desafio\Desafio.cpp(6,1): error C2143: erro de sintaxe: ';' ausente antes de '{'
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Desafio\Desafio.cpp(6,1): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607475877 source:d:\gustavo\sistemas de informação\algoritmos\2º semestre\c++\prova 1\main.cpp
+	<iostream>
+	<locale.h>
+

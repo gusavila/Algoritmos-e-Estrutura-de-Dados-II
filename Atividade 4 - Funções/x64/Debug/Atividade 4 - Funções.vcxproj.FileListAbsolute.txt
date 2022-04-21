@@ -1,0 +1,2 @@
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Atividade 4 - Funções\x64\Debug\Atividade 4 - Funções.exe
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Atividade 4 - Funções\x64\Debug\Atividade 4 - Funções.pdb

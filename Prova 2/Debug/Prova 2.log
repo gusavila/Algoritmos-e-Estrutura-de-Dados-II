@@ -1,0 +1,7 @@
+﻿  Prova 2.cpp
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Prova 2\Prova 2.cpp(11,7): error C2065: 'i': identificador não declarado
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Prova 2\Prova 2.cpp(11,14): error C2065: 'i': identificador não declarado
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Prova 2\Prova 2.cpp(11,25): error C2065: 'i': identificador não declarado
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Prova 2\Prova 2.cpp(17,23): error C2664: 'std::string funcao(int [],int [])': não é possível converter um argumento 1 de 'int' em 'int []'
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Prova 2\Prova 2.cpp(17,17): message : Conversão de tipo integral para tipo de ponteiro requer reinterpret_cast, conversão C-style ou conversão function-style
+D:\Gustavo\Sistemas de Informação\Algoritmos\2º Semestre\C++\Prova 2\Prova 2.cpp(10,8): message : consulte a declaração de 'funcao'
